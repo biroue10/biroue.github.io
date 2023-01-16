@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Biroue.info()
 subtitle: Python Back-End Engineer 
 ---
 
