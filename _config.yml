@@ -22,8 +22,8 @@ author: BIROUE ISAAC
 navbar-links:
   About Me: "aboutme"
   CERTIFICATES:
-    - PROFESSIONAL: "https://biroue.com"
-    - COURSES: "https://biroue.com"
+    - PROFESSIONAL: "professional"
+    - COURSES: "courses"
   BLOG: "blog"
   PROJECTS: "projects"
 
