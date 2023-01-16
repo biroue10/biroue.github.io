@@ -25,6 +25,10 @@ navbar-links:
     - PROFESSIONAL: "https://beautifuljekyll.com"
     - COURSES: "https://www.markdowntutorial.com/"
   Author's home: "biroue.com"
+  ARTICLES/SLIDES:
+    -MEDIUM:
+    -WORDPRESS:
+    
 
 ################
 # --- Logo --- #
