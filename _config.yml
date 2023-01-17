@@ -26,6 +26,7 @@ navbar-links:
     - COURSES: "courses"
   BLOG: "blog"
   PROJECTS: "projects"
+  CONTACT: "contact"
 
 ################
 # --- Logo --- #
