@@ -44,5 +44,18 @@ subtitle: List of passed exams and professional certifications
   <b>Test Name:</b> certification 8<br><b>Passing Score:</b> 100% (2/2) <br>
 <a href="/assets/certificates/8.jpg"><img src="/assets/certificates/8.jpg" style="width: 50%; height: 50%"></a> <br>
 </p>
-
-
+<hr>
+<p align="center">
+  <b>Test Name:</b> certification 9<br><b>Passing Score:</b> 100% (2/2) <br>
+<a href="/assets/certificates/9.jpg"><img src="/assets/certificates/9.jpg" style="width: 50%; height: 50%"></a> <br>
+</p>
+<hr>
+<p align="center">
+  <b>Test Name:</b> certification 10<br><b>Passing Score:</b> 100% (2/2) <br>
+<a href="/assets/certificates/10.jpg"><img src="/assets/certificates/10.jpg" style="width: 50%; height: 50%"></a> <br>
+</p>
+<hr>
+<p align="center">
+  <b>Test Name:</b> certification 11<br><b>Passing Score:</b> 100% (2/2) <br>
+<a href="/assets/certificates/11.jpg"><img src="/assets/certificates/11.jpg" style="width: 50%; height: 50%"></a> <br>
+</p>
