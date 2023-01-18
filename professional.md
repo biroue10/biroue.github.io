@@ -7,7 +7,7 @@ subtitle: List of passed exams and professional certifications
 --------------------------
 <p align="center">
   <b>Test Name:</b> certification 1<br><b>Passing Score:</b> 100% (2/2) <br>
-<a href="/assets/certificates/1.jpg"><img src="/assets/certificates/1.jpg" style="width: 50%; height: 50%"></a> <br>
+<a href="website/assets/certificates/1.jpg"><img src="website/assets/certificates/1.jpg" style="width: 50%; height: 50%"></a> <br>
 </p>
 <hr>
 <p align="center">
