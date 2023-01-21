@@ -31,7 +31,7 @@ subtitle: List of passed exams and professional certifications
 </p>
 <hr>
 <p align="center">
-  <b>Test Name:</b> certification 6<br><b>Passing Score:</b> 100% (2/2) <br>
+  <b>Test Name:</b>Programming with JavaScript<br><b>Passing Score:</b> 95.46% <br>
 <a href="/assets/certificates/6.jpg"><img src="/assets/certificates/6.jpg" style="width: 50%; height: 50%"></a> <br>
 </p>
 <hr>
