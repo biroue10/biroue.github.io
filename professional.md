@@ -26,7 +26,7 @@ subtitle: List of passed exams and professional certifications
 </p>
 <hr>
 <p align="center">
-  <b>Test Name:</b> certification 5<br><b>Passing Score:</b> 100% (2/2) <br>
+  <b>Test Name:</b>Introduction to Back-End Development<br><b>Passing Score:</b> 94.75% <br>
 <a href="/assets/certificates/5.jpg"><img src="/assets/certificates/5.jpg" style="width: 50%; height: 50%"></a> <br>
 </p>
 <hr>
