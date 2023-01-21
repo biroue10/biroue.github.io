@@ -41,7 +41,7 @@ subtitle: List of passed exams and professional certifications
 </p>
 <hr>
 <p align="center">
-  <b>Test Name:</b> certification 8<br><b>Passing Score:</b> 100% (2/2) <br>
+  <b>Test Name:</b>Docker Essentials: A Developer Introduction<br><b>Passing Score:</b> 86% <br>
 <a href="/assets/certificates/8.jpg"><img src="/assets/certificates/8.jpg" style="width: 50%; height: 50%"></a> <br>
 </p>
 <hr>
