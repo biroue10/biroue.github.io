@@ -16,7 +16,7 @@ subtitle: List of passed exams and professional certifications
 </p>
 <hr>
 <p align="center">
-  <b>Test Name:</b> certification 3<br><b>Passing Score:</b> 100% (2/2) <br>
+  <b>Test Name:</b>Introduction to Web Development with HTML, CSS, JavaScript<br><b>Passing Score:</b> 83.75% <br>
 <a href="/assets/certificates/3.jpg"><img src="/assets/certificates/3.jpg" style="width: 50%; height: 50%"></a> <br>
 </p>
 <hr>
