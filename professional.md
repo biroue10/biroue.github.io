@@ -36,7 +36,7 @@ subtitle: List of passed exams and professional certifications
 </p>
 <hr>
 <p align="center">
-  <b>Test Name:</b> certification 7<br><b>Passing Score:</b> 100% (2/2) <br>
+  <b>Test Name:</b>IBM Cloud Essentials V3<br><b>Passing Score:</b> 100% <br>
 <a href="/assets/certificates/7.jpg"><img src="/assets/certificates/7.jpg" style="width: 50%; height: 50%"></a> <br>
 </p>
 <hr>
