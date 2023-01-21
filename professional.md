@@ -6,12 +6,12 @@ subtitle: List of passed exams and professional certifications
 
 --------------------------
 <p align="center">
-  <b>Test Name:</b>Version Control<br><b>Note obtenue :</b> 96.87% <br>
+  <b>Test Name:</b>Version Control<br><b>Passing Score:</b> 96.87% <br>
 <a href="/assets/certificates/1.jpg"><img src="/assets/certificates/1.jpg" style="width: 50%; height: 50%"></a> <br>
 </p>
 <hr>
 <p align="center">
-  <b>Test Name:</b> certification 2<br><b>Passing Score:</b> 100% (2/2) <br>
+  <b>Test Name:</b>Getting Started with Git and GitHub<br><b>Passing Score:</b> 88% <br>
 <a href="/assets/certificates/2.jpg"><img src="/assets/certificates/2.jpg" style="width: 50%; height: 50%"></a> <br>
 </p>
 <hr>
