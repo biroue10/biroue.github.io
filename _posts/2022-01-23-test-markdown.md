@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why did I choose to get into IT development?
-subtitle: Each post also has a subtitle
 gh-repo: biroue10
 gh-badge: [star, fork, follow]
 tags: [computer]
