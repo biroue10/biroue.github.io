@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Why did I choose to get into IT development?
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/cover.jpg
+thumbnail-img: /assets/img/why.jpg
 share-img: /assets/img/path.jpg
 gh-repo: biroue10
 gh-badge: [star, fork, follow]
