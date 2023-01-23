@@ -4,7 +4,7 @@ title: Why did I choose to get into IT development?
 subtitle: Each post also has a subtitle
 gh-repo: biroue10
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [computer]
 comments: true
 ---
 I am Biroue Technician in computer systems and networks in a call center based in Casablanca. I'm going to talk to you today about my transition from the field of computer systems and networks to computer development. This transition was motivated by several factors, including the desire to be free from geographical constraints. Having suffered the brunt of the consequences of Covid-19, I found myself overnight, like most workers, confined to my home. Here is the starting point of this initiative.<br>
