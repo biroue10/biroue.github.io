@@ -9,11 +9,30 @@ Skills
 ------
 <text class="bubble">data analysis</text> <text class="bubble">databases</text> <text class="bubble">machine learning</text> <text class="bubble">data visualization</text> <text class="bubble">statistics</text> <text class="bubble">technical writing</text>
 
-**Programming:** Python, SQL, C++, git/github, Matlab, R, command line
+**Backend Technologies:** Python, Node.js, Bash Scripting
 
-**Python Packages:** Jupyter, Pandas, Numpy, Matplotlib, Scikit-learn, PyMC, Scipy, TensorFlow
+**Operating Systems:** Windows 98/NT/2000/XP/Vista/7/8, Unix/Linux
 
-**Web Development:** HTML5/CSS3, d3.js, web2py, Pelican
+**Methodologies:** Agile, Scrum
+
+**Testing Tools:** unittest, pytest, Selenium
+
+**GUI Frameworks:** TkInter
+
+**Python Libraries:** Requests, Scrapy, BeautifulSoup, NumPy, Scapy
+
+**API Testing Tools:** Postman
+
+**Object-Relational Mapping (ORM):** Django ORM, SQLAlchemy
+
+**Databases:** MongoDB, MySQL
+
+**Cloud Technologies:** IBM Cloud, AWS
+
+**Protocols:** TCP/IP, ICMP, HTTP/HTTPS
+
+**Version Control Tools:** Concurrent Versions System (CVS), Subversion (SVN), Git, GitHub
+
 
 Experience
 ---------
