@@ -2,12 +2,10 @@ BIROUE ISAAC
 ======
 
 #### Data scientist with a strong background in math, science and programming.
-###### [ [website](http://sdsawtelle.github.io) ] . [ [linkedin](www.linkedin.com/in/sonya-sawtelle-data-scientist) ] . [ [github](https://github.com/sdsawtelle) ] . [ [sonya.sawtelle@aya.yale.edu](mailto:sonya.sawtelle@aya.yale.edu) ] . [ 802 461 3429 ]
-
+###### [ [website](http://biroue10.github.io) ] . [ [linkedin](www.linkedin.com/in/isaac-biroue) ] . [ [github](https://github.com/biroue10) ]
 
 Skills
 ------
-<text class="bubble">data analysis</text> <text class="bubble">databases</text> <text class="bubble">machine learning</text> <text class="bubble">data visualization</text> <text class="bubble">statistics</text> <text class="bubble">technical writing</text>
 
 **Programming Languages:** Python, SQL, HTML, CSS
 **Backend Development:** Flask, Django, SQLAlchemy, RESTful APIs, Django ORM
