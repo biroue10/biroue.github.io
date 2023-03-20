@@ -9,7 +9,9 @@ Skills
 ------
 <text class="bubble">data analysis</text> <text class="bubble">databases</text> <text class="bubble">machine learning</text> <text class="bubble">data visualization</text> <text class="bubble">statistics</text> <text class="bubble">technical writing</text>
 
-**Backend Technologies:** Python, Node.js, Bash Scripting
+**Programming Languages:** Python, SQL, HTML, CSS
+
+**Backend Development:** Flask, Django, SQLAlchemy, RESTful APIs, Django ORM
 
 **Operating Systems:** Windows 98/NT/2000/XP/Vista/7/8, Unix/Linux
 
@@ -22,8 +24,6 @@ Skills
 **Python Libraries:** Requests, Scrapy, BeautifulSoup, NumPy, Scapy
 
 **API Testing Tools:** Postman
-
-**Object-Relational Mapping (ORM):** Django ORM, SQLAlchemy
 
 **Databases:** MongoDB, MySQL
 
