@@ -2,7 +2,7 @@ BIROUE ISAAC
 ======
 
 #### Data scientist with a strong background in math, science and programming.
-###### [ [website](http://biroue10.github.io) ] . [ [linkedin](www.linkedin.com/in/isaac-biroue) ] . [ [github](https://github.com/biroue10) ]
+###### [ [website](http://biroue10.github.io) ] . [ [linkedin](https://www.linkedin.com/in/isaac-biroue/)] . [ [github](https://github.com/biroue10) ]
 
 Skills
 ------
