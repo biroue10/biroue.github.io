@@ -7,17 +7,17 @@ BIROUE ISAAC
 Skills
 ------
 
-**Programming Languages:** Python, SQL, HTML, CSS
-**Backend Development:** Flask, Django, SQLAlchemy, RESTful APIs, Django ORM
-**Operating Systems:** Windows 98/NT/2000/XP/Vista/7/8, Unix/Linux
-**Methodologies:** Agile, Scrum
-**Testing Tools:** unittest, pytest, Selenium
-**GUI Frameworks:** TkInter
-**Python Libraries:** Requests, Scrapy, BeautifulSoup, NumPy, Scapy
-**API Testing Tools:** Postman
-**Databases:** MongoDB, MySQL
-**Cloud Technologies:** IBM Cloud, AWS
-**Protocols:** TCP/IP, ICMP, HTTP/HTTPS
+**Programming Languages:** Python, SQL, HTML, CSS <br>
+**Backend Development:** Flask, Django, SQLAlchemy, RESTful APIs, Django ORM <br>
+**Operating Systems:** Windows 98/NT/2000/XP/Vista/7/8, Unix/Linux <br>
+**Methodologies:** Agile, Scrum <br>
+**Testing Tools:** unittest, pytest, Selenium <br>
+**GUI Frameworks:** TkInter <br>
+**Python Libraries:** Requests, Scrapy, BeautifulSoup, NumPy, Scapy <br>
+**API Testing Tools:** Postman <br>
+**Databases:** MongoDB, MySQL <br>
+**Cloud Technologies:** IBM Cloud, AWS <br> 
+**Protocols:** TCP/IP, ICMP, HTTP/HTTPS <br>
 **Version Control Tools:** Concurrent Versions System (CVS), Subversion (SVN), Git, GitHub
 
 
