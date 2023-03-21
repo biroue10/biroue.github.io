@@ -1,7 +1,7 @@
 BIROUE ISAAC
 ======
 
-#### Data scientist with a strong background in math, science and programming.
+#### As a Python Backend Engineer, I am a skilled developer with extensive experience in designing and developing robust and scalable back-end solutions using Python. With a deep understanding of object-oriented programming and software architecture principles, I have a proven track record of delivering high-quality software solutions that meet client requirements and exceed expectations.
 ###### [ [website](http://biroue10.github.io) ] . [ [linkedin](https://www.linkedin.com/in/isaac-biroue/)] . [ [github](https://github.com/biroue10) ]
 
 Skills
