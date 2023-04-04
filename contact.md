@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Biroue.contact()
+title: Contact
 ---
