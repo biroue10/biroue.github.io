@@ -1,3 +1,14 @@
+---
+layout: post
+title: Why did I choose to get into IT development?
+cover-img: /assets/img/cover.jpg
+thumbnail-img: /assets/img/why.jpg
+share-img: /assets/img/path.jpg
+gh-repo: biroue10
+gh-badge: [star, fork, follow]
+tags: [computer, it, development, software]
+comments: true
+---
 # Understanding the Differences Between var, let, and const in JavaScript: A Comprehensive Guide
 
 JavaScript is a dynamic and flexible programming language that allows developers to declare variables using three different keywords: `var`, `let`, and `const`. While all three keywords allow developers to declare variables, they differ in how they work and when they should be used.
